@@ -12,7 +12,8 @@ def click(x,y):
 print ('Welcome to SkipButton')
 time.sleep(1) #Delay
 print ('Your Skip Hotkey is Alt')
-print ('Make sure your mouse is not covering the skip button')
+print ('Ensure nothing is covering the skip button')
+print ('Program will start in 3 seconds')
 print ('Questions? Ask @nicks')
 print ('...................................')
 time.sleep(3) #Delay
