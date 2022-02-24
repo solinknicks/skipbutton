@@ -5,7 +5,11 @@ You require python to run this script - https://www.python.org/downloads/
 
 Download repository and open a command prompt window as and administrator.
 
-Run the followinng commands: pip install & pyautogui & pip install keybord & pip install time
+Run the followinng commands: 
+
+'pip install pyautogui' & 
+'pip install keybord' & 
+'pip install time'
 
 Close window and double ckick on SkipButton.py
 
