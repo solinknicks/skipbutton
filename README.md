@@ -3,9 +3,9 @@ This is a skip button for zendesk.
 
 You require python to run this script - https://www.python.org/downloads/
 
-Download repository and open a command prompt window as and administrator.
+Download repository and open a command prompt window as an administrator.
 
-Run the followinng commands: 
+Run the followinng commands to install the required repositories.
 
 'pip install pyautogui' & 
 'pip install keybord' & 
